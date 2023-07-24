@@ -5,14 +5,14 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class ManageCookie {
-	//쿠키를 생성
+	//荑좏궎瑜� �깮�꽦
 	public static void makeCookie(HttpServletResponse response,String cName,String cValue, int cTime) {
 		Cookie cookie = new Cookie(cName,cValue);
 		cookie.setPath("/");
 		cookie.setMaxAge(cTime);
 		response.addCookie(cookie);
 	}
-	//쿠키 값 읽기(반환)
+	//荑좏궎 媛� �씫湲�(諛섑솚)
 	public static String readCookie(HttpServletRequest request, String cName) {
 		String cookieValue="";
 		Cookie[] cookies = request.getCookies();
@@ -27,7 +27,7 @@ public class ManageCookie {
 		return cookieValue;
 	}
 	
-	//쿠키를 삭제(
+	//荑좏궎瑜� �궘�젣(
 	public static void deleteCookie(HttpServletResponse response,String cName) {
 		makeCookie(response, cName,"",0);
 	}
