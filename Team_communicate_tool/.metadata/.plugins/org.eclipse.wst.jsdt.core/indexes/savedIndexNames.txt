@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+D:\hellow\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3443648248.index
+663969767.index
+3343294230.index
+387889447.index
+675872711.index
+1671884809.index
+2987948953.index
+2380175872.index
+1414465129.index
+1970547449.index
+730104909.index
+2220488325.index
+3846199664.index
+540392823.index
+1452256360.index

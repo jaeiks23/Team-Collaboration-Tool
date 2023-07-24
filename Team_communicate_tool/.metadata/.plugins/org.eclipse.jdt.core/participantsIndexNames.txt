@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3343294230.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3846199664.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\675872711.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\540392823.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1452256360.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1414465129.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\387889447.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3443648248.index
+\HelloWorld\src\main\java
+D:\hellow\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\730104909.index
+\HelloWorld\src\main\java
